@@ -1,4 +1,6 @@
 # eticket_system
+
+CodeIgniter HMVC Module Electronic Repair Ticket System
 ----------------------------------------------
 
 SQL table structure:
