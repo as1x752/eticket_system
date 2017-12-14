@@ -8,7 +8,7 @@ This module was made with CodeIgniter using the HMVC plugin. It's a basic crud t
 
 A delete button still needs to be added to remove items, but that part is easy. The method already exists in the controller as it is part of the bugtracker project that I added here a while back. It's just a matter of adding a delete button to point back to the method in the controller.
 
-I'm also considering tying this into a bigger project such as a CRM. It's nice to have big dreams, eh?
+I'm also considering adding this into a bigger project such as a CRM. It's nice to have big dreams, eh?
 
 SQL table structure:
            
