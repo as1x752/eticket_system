@@ -6,7 +6,7 @@ CodeIgniter HMVC Module Electronic Repair Ticket System
 
 This module was made with CodeIgniter using the HMVC plugin. It's a basic crud that allows for adding new devices to inventory or updating existing items with new information. This module also includes a label print option that will generate a QRCode with embedded hyperlink back to the item page for use with mobile. The printer I am using for printing out labels is a Dymo LabelWriter 400 that I picked up on ebay for 10 dollars.
 
-A delete button still needs to be added to remove items, but that part is easy. The method already exists in the controller as it is part of the bugtracker project that I added here a while back. It's just a matter of added a delete button to point back to the method in the controller.
+A delete button still needs to be added to remove items, but that part is easy. The method already exists in the controller as it is part of the bugtracker project that I added here a while back. It's just a matter of adding a delete button to point back to the method in the controller.
 
 I'm also considering tying this into a bigger project such as a CRM. It's nice to have big dreams, eh?
 
